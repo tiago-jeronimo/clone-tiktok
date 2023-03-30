@@ -1,14 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import Video from './pages/Video';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Helo world!
-        </p>
-      </header>
+      <div className='app__videos'>
+         <Video/>
+         <Video/>
+         <Video/>
+         </div>
     </div>
   );
 }
