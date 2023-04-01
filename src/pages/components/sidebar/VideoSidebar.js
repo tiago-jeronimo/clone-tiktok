@@ -11,11 +11,9 @@ function VideoSidebar({ likes, messages, shares }) {
   function handleLike() {
     setLiked(!liked);
   }
-
   return (
     <div className="videoSidebar">
       <div className="videoSidebar__options" onClick={handleLike}>
-        {" "}
         {liked ? (
           <FavoriteIcon fontSize="large" />
         ) : (

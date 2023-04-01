@@ -11,24 +11,24 @@ function App() {
           shares={30870}
           name="the.jeronimo"
           description ="Brecker o goleiro"
-          music='Épicas'
+          music='Uma música épica tocando de fundo'
           url="https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/brecker2.mp4"
          />
         <Video
           likes={1599}
           messages={75}
           shares={516}
-          name="the.jeronimo"
-          description ="Brecker o goleiro"
-          music='Épicas'
-          url="https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/brecker2.mp4"
+          name="babadulaba"
+          description ="Gatinho encarando"
+          music='Batendo palmas'
+          url="https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/bird.mp4"
          /><Video
          likes={852}
          messages={456}
          shares={753}
-         name="the.jeronimo"
-         description ="Brecker o goleiro"
-         music='Épicas'
+         name="emanueloficial"
+         description ="Outro gatinho"
+         music='Musica tocando de fundo '
          url="https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/brecker2.mp4"
         />
          </div>
