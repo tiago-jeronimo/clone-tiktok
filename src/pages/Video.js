@@ -25,7 +25,7 @@ function Video({likes, messages, shares, name, description, music, url}) {
 
   return (
     <div className="video">
-      <video
+      <video  
         className="video__player"
         ref={videoRef}
         onClick={handleStart}

@@ -29,3 +29,12 @@ html {
   -ms-text-overflow: none;
   scrollbar-width: none;
 } */
+
+
+@media only screen and (max-width: 440px){
+  .app__videos{
+
+    width: 80%;
+   height: 100vh;
+  }
+}
