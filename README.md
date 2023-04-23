@@ -1,5 +1,5 @@
 
-# Tik Tok - Clone
+# TikTok - Clone
 
 Esse projeto é um clone da tela de explorar do TikTok.
 
