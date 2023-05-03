@@ -13,7 +13,7 @@ Esse é o link para o acesso:
 https://tiktok-clone-6b92c.web.app/
 
 
-## Stack utilizada
+## Tecnologias utilizada
 
 **Front-end:** React
 
