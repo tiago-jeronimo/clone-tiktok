@@ -8,11 +8,6 @@ Esse projeto é um clone da tela de explorar do TikTok.
 
 O deploy foi usado Firebase
 
-Esse é o link para o acesso:
-
-https://tiktok-clone-6b92c.web.app/
-
-
 ## Tecnologias utilizada
 
 **Front-end:** React
